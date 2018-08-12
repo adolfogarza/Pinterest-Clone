@@ -1,6 +1,4 @@
-# Adolfo Hernandez Project
+# Adolfo Garza Project
 
- This is a pinterest like application, it is not the real one. 
- It is a begginer's project to learn Rails.
+Created using ruby on rails, this is a project that clones the early version of pinterest, it was created with the sole purpose of training on the rails platform, working with scaffolding and more rails features.
  
- By [Adolfo Hernandez] [twitter.com/adolfohgarza]
